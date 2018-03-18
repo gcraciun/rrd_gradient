@@ -12,13 +12,14 @@ A few more:
 ![RpiCPU](images/picpu.png)
 ![External](images/ext.png)
 
-
-
 Other [NOT] gradients from the web:
 
 Almost but requires more thresholds.
+
 ![NOT1](images/not1.png)
+
 Even if the temp would be 10 degrees it would still show as red.
+
 ![NOT2](images/not2.png)
 
 
